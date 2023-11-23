@@ -9,4 +9,5 @@ The star appears when the number of points is divisible with 5 and it give a lif
 The dead fish takes a life.
 The octopus takes points.
 
+
 This project was built following Object-Oriented Programming (OOP) principles.
